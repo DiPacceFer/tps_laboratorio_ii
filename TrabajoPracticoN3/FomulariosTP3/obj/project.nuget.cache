@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3Re7gIex1FjdNKnWjH083by/8iLQ7rhtBl8V3AQqESnHRTO454l291ayRVMld90tBwYIQi5STfsYB44u0a/fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fernando\\source\\repos\\TrabajoPracticoN3\\FomulariosTP3\\FomulariosTP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
