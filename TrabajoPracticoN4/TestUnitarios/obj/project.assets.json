@@ -6556,11 +6556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\TestUnitarios\\TestUnitarios.csproj",
+      "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\TestUnitarios\\TestUnitarios.csproj",
       "projectName": "TestUnitarios",
-      "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\TestUnitarios\\TestUnitarios.csproj",
+      "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\TestUnitarios\\TestUnitarios.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\TestUnitarios\\obj\\",
+      "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\TestUnitarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6577,8 +6577,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj"
             }
           }
         }

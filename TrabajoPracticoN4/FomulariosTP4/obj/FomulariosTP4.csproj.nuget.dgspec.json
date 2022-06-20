@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\FomulariosTP3\\FomulariosTP3.csproj": {}
+    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\FomulariosTP3\\FomulariosTP4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\FomulariosTP3\\FomulariosTP3.csproj": {
+    "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\FomulariosTP3\\FomulariosTP4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\FomulariosTP3\\FomulariosTP3.csproj",
-        "projectName": "FomulariosTP3",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\FomulariosTP3\\FomulariosTP3.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\FomulariosTP3\\FomulariosTP4.csproj",
+        "projectName": "FomulariosTP4",
+        "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\FomulariosTP3\\FomulariosTP4.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\FomulariosTP3\\obj\\",
+        "outputPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\FomulariosTP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN3\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Fernando\\Desktop\\tps_laboratorio_ii\\TrabajoPracticoN4\\Entidades\\Entidades.csproj"
               }
             }
           }

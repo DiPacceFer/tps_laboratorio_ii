@@ -144,7 +144,7 @@ namespace Entidades
         }
         public static void CrearTablaSocios()
         {
-            string query = "use DIV2ASQL create table listaClub(numeroSocio int identity primary key, nombre varchar(50) null, apellido varchar(50) null, dni int, fechaNacimiento date, deporte varchar(50), categoria varchar(50));";
+            string query = "create TP4  go create table listaClub(numeroSocio int identity primary key, nombre varchar(50) null, apellido varchar(50) null, dni int, fechaNacimiento date, deporte varchar(50), categoria varchar(50));";
             
             SqlConnection connection = null;
             try
@@ -165,7 +165,7 @@ namespace Entidades
         }
         public static void CrearTablaPagos()
         {
-            string query = "use DIV2ASQL create table listaPagos(idPago int identity primary key, importe float, fechaPago date, numeroSocio int foreign key references listaClub(numeroSocio));";
+            string query = "use TP4 go create table listaPagos(idPago int identity primary key, importe float, fechaPago date, numeroSocio int foreign key references listaClub(numeroSocio));";
             SqlConnection connection = null;
             try
             {
